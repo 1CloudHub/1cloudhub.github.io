@@ -1,8 +1,8 @@
 ---
-layout: page
 title: About
-permalink: /about/
 ---
+
+
 We are your digital business partners. We stand shoulder-to-shoulder with CxOs, driving revenue with digital. Having pioneered digital transformation projects for multi-billion-dollar businesses across the globe, we bring you the automation, agility, and insights that your business needs.
 
 <ul>

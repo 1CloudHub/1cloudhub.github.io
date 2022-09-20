@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Contacts
-permalink: /contacts/
 ---
 Visit our official Website : [1cloudhub.com](https://www.1cloudhub.com/)
 
